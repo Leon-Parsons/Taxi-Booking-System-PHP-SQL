@@ -1,7 +1,4 @@
 /*
- * Author: Matthew Fan
- * Student ID: 18040157
- * 
  * Description of file:
  * This file provides direct access from the admin.html to the php server.
  * According to the Admin function, the javascript will handle user input information
