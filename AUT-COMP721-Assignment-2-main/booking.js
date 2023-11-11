@@ -1,7 +1,4 @@
 /*
- * Author: Matthew Fan
- * Student ID: 18040157
- * 
  * Description of file:
  * First task:
  * Display the current date and time information of the local machine
