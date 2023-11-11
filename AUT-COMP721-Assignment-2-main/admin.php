@@ -1,8 +1,5 @@
 <?php
     /**
-     * Author: Matthew Fan
-     * Student ID: 18040157
-     * 
      * Description of File:
      * This file will create database connection, and check the request type from admin.js
      * If the request is Get, meaning to get the booking information for the database, it will call the getBooking list from the SQLfunction.php
