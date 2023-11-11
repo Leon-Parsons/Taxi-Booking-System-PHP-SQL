@@ -1,7 +1,5 @@
 <?php
     /**
-     * Author: Matthew Fan
-     * Student ID: 18040157
      * Description of File:
      * This file provides all the functionalities to interact with the database. 
      * Keeping all the file here for reusability of the code, as well as security.
