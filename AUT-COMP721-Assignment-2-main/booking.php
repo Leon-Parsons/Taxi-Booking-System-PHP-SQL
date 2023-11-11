@@ -1,7 +1,5 @@
 <?php
 	/**
-	 * Author: Matthew Fan
-	 * Student ID: 18040157
 	 * Description of File:
      * This file connects to the database, and handle the user request from booking.html and booking.js
 	 * This will establish database connection.
